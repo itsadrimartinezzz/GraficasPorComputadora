@@ -1,0 +1,1 @@
+C:\Users\adria\OneDrive\ -\ UVG\Desktop\Graficas\Ejercicio\target\debug\ejercicio.exe: C:\Users\adria\OneDrive\ -\ UVG\Desktop\Graficas\Ejercicio\src\framebuffer.rs C:\Users\adria\OneDrive\ -\ UVG\Desktop\Graficas\Ejercicio\src\line.rs C:\Users\adria\OneDrive\ -\ UVG\Desktop\Graficas\Ejercicio\src\main.rs
